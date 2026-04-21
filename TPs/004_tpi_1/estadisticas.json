@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "fecha_generacion": "2026-04-20T23:51:13.388387",
+    "total_documentos": 2,
+    "origenes": {
+      "web": 1,
+      "audio": 1
+    }
+  },
+  "estadisticas_generales": {
+    "total_tokens": 6750,
+    "vocabulario_unico": 1516,
+    "total_oraciones": 318,
+    "promedio_tokens_por_doc": 3375.0,
+    "promedio_oraciones_por_doc": 159.0
+  },
+  "entidades_nombradas": {
+    "PER": {
+      "total_menciones": 56,
+      "entidades_unicas": 49,
+      "top_10": [
+        {
+          "entidad": "Trump",
+          "frecuencia": 6
+        },
+        {
+          "entidad": "Jed Bola",
+          "frecuencia": 3
+        },
+        {
+          "entidad": "Donald Trump",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Barack Obama",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Joe Biden",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Según",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "JD Vance",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Steve Witkoff",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Jared Kushner",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Iránjo",
+          "frecuencia": 1
+        }
+      ]
+    },
+    "ORG": {
+      "total_menciones": 60,
+      "entidades_unicas": 19,
+      "top_10": [
+        {
+          "entidad": "Jutíes",
+          "frecuencia": 28
+        },
+        {
+          "entidad": "UTIES",
+          "frecuencia": 9
+        },
+        {
+          "entidad": "ONU",
+          "frecuencia": 6
+        },
+        {
+          "entidad": "Iron Dome Israelí",
+          "frecuencia": 2
+        },
+        {
+          "entidad": "Fuerza Aérea",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "AFP",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Atlético de Madrid",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Chismo Irani",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Jauzi",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Dream Team",
+          "frecuencia": 1
+        }
+      ]
+    },
+    "LOC": {
+      "total_menciones": 227,
+      "entidades_unicas": 109,
+      "top_10": [
+        {
+          "entidad": "Yemen",
+          "frecuencia": 35
+        },
+        {
+          "entidad": "Irán",
+          "frecuencia": 19
+        },
+        {
+          "entidad": "Israel",
+          "frecuencia": 15
+        },
+        {
+          "entidad": "Estados Unidos",
+          "frecuencia": 9
+        },
+        {
+          "entidad": "Arabia Saudita",
+          "frecuencia": 7
+        },
+        {
+          "entidad": "Teherán",
+          "frecuencia": 6
+        },
+        {
+          "entidad": "Jutíes",
+          "frecuencia": 4
+        },
+        {
+          "entidad": "Zaná",
+          "frecuencia": 4
+        },
+        {
+          "entidad": "Washington",
+          "frecuencia": 3
+        },
+        {
+          "entidad": "Siria",
+          "frecuencia": 3
+        }
+      ]
+    },
+    "MISC": {
+      "total_menciones": 152,
+      "entidades_unicas": 138,
+      "top_10": [
+        {
+          "entidad": "Los rebeldes Jutíes",
+          "frecuencia": 4
+        },
+        {
+          "entidad": "Yemeni",
+          "frecuencia": 4
+        },
+        {
+          "entidad": "Y ahora",
+          "frecuencia": 3
+        },
+        {
+          "entidad": "Vamos",
+          "frecuencia": 3
+        },
+        {
+          "entidad": "Sin embargo",
+          "frecuencia": 3
+        },
+        {
+          "entidad": "Para que os hagáis una idea",
+          "frecuencia": 2
+        },
+        {
+          "entidad": "JutiES",
+          "frecuencia": 2
+        },
+        {
+          "entidad": "Armada",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Truth Social",
+          "frecuencia": 1
+        },
+        {
+          "entidad": "Medio Oriente",
+          "frecuencia": 1
+        }
+      ]
+    }
+  },
+  "verbos_principales": [
+    {
+      "verbo": "pasar",
+      "frecuencia": 11
+    },
+    {
+      "verbo": "salir",
+      "frecuencia": 9
+    },
+    {
+      "verbo": "cerrar",
+      "frecuencia": 6
+    },
+    {
+      "verbo": "terminar",
+      "frecuencia": 6
+    },
+    {
+      "verbo": "caer",
+      "frecuencia": 6
+    },
+    {
+      "verbo": "recordar",
+      "frecuencia": 6
+    },
+    {
+      "verbo": "tomar",
+      "frecuencia": 6
+    },
+    {
+      "verbo": "convertir",
+      "frecuencia": 6
+    },
+    {
+      "verbo": "ver",
+      "frecuencia": 6
+    },
+    {
+      "verbo": "decidir",
+      "frecuencia": 6
+    },
+    {
+      "verbo": "seguir",
+      "frecuencia": 5
+    },
+    {
+      "verbo": "mantener",
+      "frecuencia": 5
+    },
+    {
+      "verbo": "tener",
+      "frecuencia": 5
+    },
+    {
+      "verbo": "llegar",
+      "frecuencia": 4
+    },
+    {
+      "verbo": "producir",
+      "frecuencia": 4
+    }
+  ],
+  "palabras_clave": [
+    {
+      "palabra": "Jutíes",
+      "frecuencia": 43
+    },
+    {
+      "palabra": "Yemen",
+      "frecuencia": 40
+    },
+    {
+      "palabra": "año",
+      "frecuencia": 21
+    },
+    {
+      "palabra": "Irán",
+      "frecuencia": 20
+    },
+    {
+      "palabra": "guerra",
+      "frecuencia": 20
+    },
+    {
+      "palabra": "rebelde",
+      "frecuencia": 19
+    },
+    {
+      "palabra": "misil",
+      "frecuencia": 18
+    },
+    {
+      "palabra": "país",
+      "frecuencia": 18
+    },
+    {
+      "palabra": "Unidos",
+      "frecuencia": 16
+    },
+    {
+      "palabra": "Israel",
+      "frecuencia": 15
+    },
+    {
+      "palabra": "militar",
+      "frecuencia": 14
+    },
+    {
+      "palabra": "iraní",
+      "frecuencia": 13
+    },
+    {
+      "palabra": "estrecho",
+      "frecuencia": 13
+    },
+    {
+      "palabra": "buque",
+      "frecuencia": 13
+    },
+    {
+      "palabra": "grupo",
+      "frecuencia": 13
+    },
+    {
+      "palabra": "estadounidense",
+      "frecuencia": 10
+    },
+    {
+      "palabra": "drón",
+      "frecuencia": 10
+    },
+    {
+      "palabra": "fuerza",
+      "frecuencia": 9
+    },
+    {
+      "palabra": "arma",
+      "frecuencia": 9
+    },
+    {
+      "palabra": "UTIES",
+      "frecuencia": 9
+    }
+  ]
+}
