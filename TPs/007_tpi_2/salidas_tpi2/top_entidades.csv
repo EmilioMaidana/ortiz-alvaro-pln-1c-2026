@@ -1,0 +1,212 @@
+grupo,texto_entidad,etiqueta,frecuencia
+BBC,Ucrania,LOC,20
+BBC,Rusia,LOC,11
+BBC,Moscú,LOC,7
+BBC,Google YouTube,MISC,4
+BBC,Kiev,LOC,4
+BBC,Autor,PER,3
+BBC,BBC,ORG,3
+BBC,BBC Mundo,ORG,3
+BBC,Bielorrusia,LOC,3
+BBC,Chernihiv,LOC,3
+BBC,Descarga,MISC,3
+BBC,Mariúpol,LOC,3
+BBC,Milley,PER,3
+BBC,Milley,LOC,2
+BBC,Orlov,PER,2
+BBC,Putin,PER,2
+BBC,"Redacción
+- Título",MISC,2
+BBC,Skoryk-Shkarivska,LOC,2
+BBC,Solicitamos,MISC,2
+BBC,Unión Europea,ORG,2
+BBC,Vladimir Putin,PER,2
+BBC,Volodymyr Zelensky,PER,2
+BBC,YouTube,MISC,2
+BBC,Además,PER,1
+BBC,Advertencia,PER,1
+BBC,Afganistán,PER,1
+BBC,Agregó,PER,1
+BBC,Ahora,MISC,1
+BBC,Aleksandr Lomako,PER,1
+BBC,Alexander Lukashenko,PER,1
+BBC,Andriy Levkivsky,PER,1
+BBC,"BBC News
+- Tiempo",ORG,1
+BBC,BBC News Mundo,ORG,1
+BBC,"BBC News Mundo
+- Tiempo",ORG,1
+BBC,Belta News,ORG,1
+BBC,Bucha,LOC,1
+BBC,Bucha,PER,1
+BBC,Chernihiv,MISC,1
+BBC,Confirmó,LOC,1
+BBC,Creo,MISC,1
+BBC,Decenas,LOC,1
+BBC,Después,MISC,1
+BBC,Diferencia,PER,1
+BBC,Dniéper,PER,1
+BBC,Donbás,LOC,1
+BBC,EE.UU.,LOC,1
+BBC,Estado Mayor Conjunto de EE. UU.,LOC,1
+BBC,Estados Unidos,LOC,1
+BBC,Europa,LOC,1
+BBC,Expertos militares en Occidente,MISC,1
+BBC,Facebook,MISC,1
+BBC,Holodomor,MISC,1
+BBC,Irpín,LOC,1
+BBC,Irpín,MISC,1
+BBC,Irpín,PER,1
+BBC,Irpín están,MISC,1
+BBC,Iván,PER,1
+BBC,Jersón,LOC,1
+BBC,Joe Biden,PER,1
+BBC,Járkiv,LOC,1
+BBC,Kremlin,LOC,1
+BBC,Kyiv,LOC,1
+BBC,Kyiv,PER,1
+BBC,Las hostilidades militares,MISC,1
+BBC,Laurence Peter,PER,1
+BBC,Lomako,LOC,1
+BBC,Los médicos,MISC,1
+BBC,Luego de unas horas,MISC,1
+BBC,Marina Met,PER,1
+BBC,Mark Milley,PER,1
+BBC,Miles de residentes,MISC,1
+BBC,Moscú anunció,ORG,1
+BBC,Mykhailyna Skoryk-Shkarivska,PER,1
+BBC,Naciones Unidas,ORG,1
+BBC,ONU,ORG,1
+BBC,Occidente,LOC,1
+BBC,Oleksandra Matviichjuk,PER,1
+BBC,Olga Rudenko,PER,1
+BBC,Pero en agosto,MISC,1
+BBC,Recuerda,MISC,1
+BBC,Representantes,ORG,1
+BBC,Retirada de Jersón,MISC,1
+BBC,Reuters,ORG,1
+BBC,Rusia de Jersón,LOC,1
+BBC,Segunda Guerra Mundial,MISC,1
+BBC,Sergei Shoigu,PER,1
+BBC,Serhiy Orlov,MISC,1
+BBC,Skoryk-Shkarivska,PER,1
+BBC,Sumy,LOC,1
+BBC,También,PER,1
+BBC,Twitter,MISC,1
+BBC,Título,PER,1
+BBC,Una foto de la tumba,MISC,1
+BBC,Una madre y su hijo,MISC,1
+BBC,Valeriy Zaluzhniy,PER,1
+BBC,Yalivschyna,PER,1
+BBC,Yatsevo,LOC,1
+BBC,Zelensky,PER,1
+BBC,general agregó,PER,1
+BBC,ordenó,PER,1
+BBC,río,ORG,1
+RT,Rusia,LOC,14
+RT,Ucrania,LOC,11
+RT,EE.UU.,LOC,8
+RT,Kiev,LOC,5
+RT,Washington,LOC,4
+RT,Cuba,LOC,3
+RT,Moscú,LOC,3
+RT,OTAN,ORG,3
+RT,Occidente,LOC,3
+RT,URSS,ORG,3
+RT,Así,PER,2
+RT,Járkov,LOC,2
+RT,Mariúpol,LOC,2
+RT,Putin,PER,2
+RT,Sumy,LOC,2
+RT,crisis de los misiles en Cuba,MISC,2
+RT,Además,PER,1
+RT,Ahora,MISC,1
+RT,Alexéi Arbátov,ORG,1
+RT,Andy Weber,PER,1
+RT,Arbátov,ORG,1
+RT,Asuntos Exteriores de Rusia,LOC,1
+RT,Belgorod,LOC,1
+RT,Biden,LOC,1
+RT,Bielorrusia,LOC,1
+RT,Bolivia,LOC,1
+RT,Bélgorod,PER,1
+RT,Casa Blanca,LOC,1
+RT,Centro,LOC,1
+RT,Chernígov,LOC,1
+RT,Ciencias Políticas,PER,1
+RT,Comité Internacional de la Cruz Roja,LOC,1
+RT,Comité de Servicios Armados,LOC,1
+RT,Consejo de Seguridad de Rusia,ORG,1
+RT,Cooperación,ORG,1
+RT,Crisis de Octubre,MISC,1
+RT,Defensa estadounidense,MISC,1
+RT,Diplomacia Coercitiva,PER,1
+RT,Dmitri Medvédev,PER,1
+RT,Donald Trump,PER,1
+RT,El Secretario General de la OTAN,MISC,1
+RT,El análisis de Sechser,MISC,1
+RT,Estado ruso,LOC,1
+RT,Estados Unidos,LOC,1
+RT,Eurasia,MISC,1
+RT,Europa,LOC,1
+RT,Federación de Rusia,ORG,1
+RT,Fernando Huanacuni Mamani,PER,1
+RT,Fuerzas Armadas de Ucrania,ORG,1
+RT,Gómel,LOC,1
+RT,Ivano Frankovsk,PER,1
+RT,Jack Reed,PER,1
+RT,Jens Stoltenberg,PER,1
+RT,Joe Biden,PER,1
+RT,John F.] Kennedy,PER,1
+RT,"Kiev
+Asimismo",LOC,1
+RT,Kommersant,PER,1
+RT,La frase que,MISC,1
+RT,Lo que el mandatario está,MISC,1
+RT,Lo que sucederá ahora,MISC,1
+RT,Lvov,PER,1
+RT,Ministerio de Defensa,LOC,1
+RT,Nikita Jruschov,PER,1
+RT,Novoazovsk,LOC,1
+RT,ONU,ORG,1
+RT,Organización,LOC,1
+RT,Pero el conflicto de hoy fue precedido,MISC,1
+RT,Politico,PER,1
+RT,Poltava,LOC,1
+RT,Por primera vez,MISC,1
+RT,"Putin
+Biden",PER,1
+RT,Ramzán Kadýrov,PER,1
+RT,Relaciones Internacionales,ORG,1
+RT,República de Chechenia,MISC,1
+RT,Respuesta Humanitaria,MISC,1
+RT,Rostov del Don,LOC,1
+RT,Rudolf Anderson,PER,1
+RT,START-3,MISC,1
+RT,Sechser,PER,1
+RT,Sede Humanitaria,LOC,1
+RT,Sede de Coordinación Interdepartamental,LOC,1
+RT,Seguridad,MISC,1
+RT,Seguridad Internacional del,ORG,1
+RT,Semejanzas,LOC,1
+RT,Senado de EE.UU.,ORG,1
+RT,Serguéi Riabkov,PER,1
+RT,Taganrog,LOC,1
+RT,Todd Sechser,PER,1
+RT,Tratado de Armas Estratégicas Ofensivas,MISC,1
+RT,U-2,MISC,1
+RT,Un tercer factor,MISC,1
+RT,Universidad de Virginia,ORG,1
+RT,Unión Soviética,LOC,1
+RT,"Videos
+Crisis",LOC,1
+RT,Vladímir Putin,PER,1
+RT,Volnovaja,LOC,1
+RT,Zaporozhie,PER,1
+RT,crisis de los misiles,MISC,1
+RT,crisis de los misiles de,MISC,1
+RT,crisis de los misiles de Cuba,MISC,1
+RT,crisis de los misiles?,MISC,1
+RT,libro 'Armas Nucleares,MISC,1
+RT,¿Más,PER,1
+RT,Úzhgorod,PER,1
